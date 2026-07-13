@@ -65,3 +65,24 @@ font-size:16px;
 button:hover{
 background:#e64a19;
 }
+input,textarea{
+
+width:90%;
+
+padding:12px;
+
+font-size:16px;
+
+margin-top:5px;
+
+border-radius:8px;
+
+border:1px solid #ccc;
+
+}
+
+textarea{
+
+height:90px;
+
+}
