@@ -4,7 +4,7 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.2/fireba
 import { getFirestore } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
 
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
+  apiKey: "AIzaSyBkQNH2Hl-vxRETX4jjZH8rkCPbyxupA24",
   authDomain: "family-flavour.firebaseapp.com",
   projectId: "family-flavour",
   storageBucket: "family-flavour.firebasestorage.app",
