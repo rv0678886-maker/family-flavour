@@ -1,1 +1,12 @@
 
+<button onclick="addToCart('Steam Momos',49)">
+Add to Cart
+</button>
+
+<button onclick="addToCart('Masala Dosa',79)">
+Add to Cart
+</button>
+
+<button onclick="addToCart('Margherita Pizza',129)">
+Add to Cart
+</button>
